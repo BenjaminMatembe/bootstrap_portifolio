@@ -28,7 +28,8 @@
 .contact-bg {
   width: 80%;
   margin-right: 12.5%;
-  background-image: url(./images/illustration-1-contact-form-desktop.svg),
+  background-image:
+    url(./images/illustration-1-contact-form-desktop.svg),
     url(./images/illustration-2-contact-form-desktop.svg),
     url(./images/illustratoin-3-desktop.svg);
   background-repeat: no-repeat;
