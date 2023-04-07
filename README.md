@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
 <div align="center">
   
 
-  <h3><b>Benjamin's README</b></h3>
+  <h3><b>Benjamin and Sergio README</b></h3>
 
 </div>
 
@@ -42,6 +42,7 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [Poject_walk_Through](#walkthrough)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -94,6 +95,9 @@ After you're finished please remove all the comments and instructions!
   </ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- walk through -->
+
+### Walkthrough <a name="walkthrough">https://www.loom.com/share/81dae3a0de1448f5bc32a93b2f94c9b1</a>
 
 <!-- LIVE DEMO -->
 
